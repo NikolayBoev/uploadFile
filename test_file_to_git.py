@@ -1,2 +1,2 @@
 print ('hello, Nikolay!')
-print ('hello again!')
+print ('hello again! no way')
